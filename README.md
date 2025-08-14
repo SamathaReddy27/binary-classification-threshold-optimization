@@ -50,7 +50,7 @@ binary_classification_threshold_optimization.ipynb – Complete notebook with co
 
 Clone the repo:
 
-git clone https://github.com/yourusername/binary-classification-threshold-optimization.git
+git clone https://github.com/SamathaReddy27/binary-classification-threshold-optimization.git
 
 
 Install requirements:
